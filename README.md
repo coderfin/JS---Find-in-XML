@@ -1,6 +1,8 @@
 # JavaScript XML Helper
 >An example of how XML can be parsed and searched using JavaScript.
 
+####[Demo](http://coderfin.github.io/js-xml-helper/)
+
 We often hire student developers where I work.  During the interview we ask them to complete a programming task.  This task is designed to see how they handle the task and not necessarily the completion of the task.  The task is simple enough; given an XML file can you extract a certain value and display it somewhere.  They can use any programming language and display the value however they want.
 
 Here is an example situation.  With the XML file that follows display the address of the first item in the response.  This is the address of `Roseann Hudson`.
