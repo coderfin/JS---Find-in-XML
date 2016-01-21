@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+    <items>
+        <item id="569d3598b320de7ab24f0d9d">
+            <favoriteFruit>banana</favoriteFruit>
+            <greeting>Hello, Roseann! You have 8 unread messages.</greeting>
+            <friends>
+                <friend>3</friend>
+                <friend>
+                    <name>Gentry Duke</name>
+                    <id>1</id>
+                </friend>
+            </friends>
+            <range>
+                <range>0</range>
+                <range>1</range>
+                <range>2</range>
+                <range>3</range>
+                <range>4</range>
+                <range>5</range>
+                <range>6</range>
+                <range>7</range>
+                <range>8</range>
+                <range>9</range>
+            </range>
+            <tags>
+                <tag>7</tag>
+                <tag>sit</tag>
+            </tags>
+            <longitude>-141.185708</longitude>
+            <latitude>-56.292414</latitude>
+            <registered>Monday, February 2, 2015 3:06 PM</registered>
+            <about>Ullamco nostrud enim quis dolor proident magna. Deserunt voluptate elit anim anim esse cupidatat incididunt magna laboris do laboris cupidatat velit ullamco. Dolore ad ea in ut esse voluptate aute eu veniam in.</about>
+            <address>218 Norwood Avenue, Norfolk, Ohio, 5385</address>
+            <phone>+1 (842) 426-2748</phone>
+            <email>roseann.hudson@assitia.tv</email>
+            <company>ASSITIA</company>
+            <name>
+                <last>Hudson</last>
+                <first>Roseann</first>
+            </name>
+            <eyeColor>green</eyeColor>
+            <age>27</age>
+            <picture>http://placehold.it/32x32</picture>
+            <balance>$1,432.39</balance>
+            <isActive>false</isActive>
+            <guid>88c42041-1cd3-4c73-b62c-912262f7176d</guid>
+            <index>0</index>
+        </item>
+        <item id="569d35982ada2e4fe9daba7f">
+            <favoriteFruit>apple</favoriteFruit>
+            <greeting>Hello, Larsen! You have 8 unread messages.</greeting>
+            <friends>
+                <friend>3</friend>
+                <friend>
+                    <name>Gentry Duke</name>
+                    <id>1</id>
+                </friend>
+            </friends>
+            <range>
+                <range>0</range>
+                <range>1</range>
+                <range>2</range>
+                <range>3</range>
+                <range>4</range>
+                <range>5</range>
+                <range>6</range>
+                <range>7</range>
+                <range>8</range>
+                <range>9</range>
+            </range>
+            <tags>
+                <tag>7</tag>
+                <tag>sit</tag>
+            </tags>
+            <longitude>71.667677</longitude>
+            <latitude>-58.251206</latitude>
+            <registered>Wednesday, November 26, 2014 1:51 AM</registered>
+            <about>Ex aute nostrud duis ea quis proident anim. Sunt dolore reprehenderit mollit eiusmod aute in et. Qui sint nisi non eiusmod consectetur in culpa ipsum reprehenderit incididunt officia occaecat. Adipisicing ullamco reprehenderit ipsum commodo ipsum adipisicing nostrud consequat voluptate consectetur adipisicing qui do. Non sit et cupidatat veniam duis minim sint. Magna ipsum ullamco sunt nulla tempor esse adipisicing adipisicing labore qui anim et nisi.</about>
+            <address>242 Eckford Street, Caspar, South Carolina, 8102</address>
+            <phone>+1 (969) 407-2460</phone>
+            <email>larsen.gonzales@buzzopia.ca</email>
+            <company>BUZZOPIA</company>
+            <name>
+                <last>Gonzales</last>
+                <first>Larsen</first>
+            </name>
+            <eyeColor>green</eyeColor>
+            <age>20</age>
+            <picture>http://placehold.it/32x32</picture>
+            <balance>$3,639.00</balance>
+            <isActive>true</isActive>
+            <guid>232a6829-d472-426f-bc04-1c861e75658d</guid>
+            <index>1</index>
+        </item>
+        <item id="569d3598f8c3db0a6d7e4e6b">
+            <favoriteFruit>banana</favoriteFruit>
+            <greeting>Hello, Garrett! You have 5 unread messages.</greeting>
+            <friends>
+                <friend>3</friend>
+                <friend>
+                    <name>Gentry Duke</name>
+                    <id>1</id>
+                </friend>
+            </friends>
+            <range>
+                <range>0</range>
+                <range>1</range>
+                <range>2</range>
+                <range>3</range>
+                <range>4</range>
+                <range>5</range>
+                <range>6</range>
+                <range>7</range>
+                <range>8</range>
+                <range>9</range>
+            </range>
+            <tags>
+                <tag>7</tag>
+                <tag>sit</tag>
+            </tags>
+            <longitude>43.418336</longitude>
+            <latitude>28.065974</latitude>
+            <registered>Saturday, August 29, 2015 1:57 PM</registered>
+            <about>Aute aliqua aliquip aliquip eu. Adipisicing sit ullamco exercitation sunt cupidatat aliqua enim quis deserunt dolor. Esse proident minim do et consectetur laboris eu occaecat do ut proident consequat laboris consequat. Culpa dolor adipisicing ut in aute ea non deserunt deserunt quis aliquip non nulla dolor. Exercitation anim esse sint cillum. Aliqua irure consequat ad enim sit anim consectetur eu quis reprehenderit exercitation adipisicing tempor aliquip.</about>
+            <address>202 Batchelder Street, Chase, Oklahoma, 9092</address>
+            <phone>+1 (839) 598-2329</phone>
+            <email>garrett.harrington@codax.co.uk</email>
+            <company>CODAX</company>
+            <name>
+                <last>Harrington</last>
+                <first>Garrett</first>
+            </name>
+            <eyeColor>blue</eyeColor>
+            <age>40</age>
+            <picture>http://placehold.it/32x32</picture>
+            <balance>$2,807.25</balance>
+            <isActive>false</isActive>
+            <guid>dd6414b1-04b7-448e-9b1e-720720896304</guid>
+            <index>2</index>
+        </item>
+        <item id="569d35985070bc462a8eb6ff">
+            <favoriteFruit>banana</favoriteFruit>
+            <greeting>Hello, Walton! You have 7 unread messages.</greeting>
+            <friends>
+                <friend>3</friend>
+                <friend>
+                    <name>Gentry Duke</name>
+                    <id>1</id>
+                </friend>
+            </friends>
+            <range>
+                <range>0</range>
+                <range>1</range>
+                <range>2</range>
+                <range>3</range>
+                <range>4</range>
+                <range>5</range>
+                <range>6</range>
+                <range>7</range>
+                <range>8</range>
+                <range>9</range>
+            </range>
+            <tags>
+                <tag>7</tag>
+                <tag>sit</tag>
+            </tags>
+            <longitude>121.042138</longitude>
+            <latitude>-44.441037</latitude>
+            <registered>Wednesday, January 14, 2015 2:22 PM</registered>
+            <about>Amet dolore amet minim nostrud ex aute proident est do culpa proident officia nulla consequat. Eu voluptate amet adipisicing qui tempor irure dolor. In consectetur ea elit pariatur duis deserunt adipisicing minim excepteur. Laboris veniam nisi qui ipsum eu mollit nisi sunt aliquip in commodo sint duis. Aute Lorem pariatur commodo Lorem velit sunt. Ex ea in Lorem sit consectetur quis ex dolor non. Quis aute irure culpa id cillum quis enim culpa et in officia.</about>
+            <address>732 Irving Avenue, Connerton, Minnesota, 3324</address>
+            <phone>+1 (823) 475-3871</phone>
+            <email>walton.branch@daisu.biz</email>
+            <company>DAISU</company>
+            <name>
+                <last>Branch</last>
+                <first>Walton</first>
+            </name>
+            <eyeColor>green</eyeColor>
+            <age>25</age>
+            <picture>http://placehold.it/32x32</picture>
+            <balance>$3,144.91</balance>
+            <isActive>true</isActive>
+            <guid>fb78f0b3-9f05-4f3c-baf8-69c2818940f4</guid>
+            <index>3</index>
+        </item>
+        <item id="569d3598e912b3c98387cafa">
+            <favoriteFruit>strawberry</favoriteFruit>
+            <greeting>Hello, Hamilton! You have 8 unread messages.</greeting>
+            <friends>
+                <friend>3</friend>
+                <friend>
+                    <name>Gentry Duke</name>
+                    <id>1</id>
+                </friend>
+            </friends>
+            <range>
+                <range>0</range>
+                <range>1</range>
+                <range>2</range>
+                <range>3</range>
+                <range>4</range>
+                <range>5</range>
+                <range>6</range>
+                <range>7</range>
+                <range>8</range>
+                <range>9</range>
+            </range>
+            <tags>
+                <tag>7</tag>
+                <tag>sit</tag>
+            </tags>
+            <longitude>-2.487351</longitude>
+            <latitude>-7.833605</latitude>
+            <registered>Saturday, January 18, 2014 1:03 AM</registered>
+            <about>Cupidatat ut do anim ipsum Lorem enim labore qui pariatur labore do. Ea ad excepteur adipisicing irure do ea aliqua cillum qui. Ad dolor fugiat laborum eu duis non incididunt ad occaecat. Amet nulla non minim consequat consequat. Reprehenderit elit veniam do fugiat aliquip laboris occaecat pariatur dolor nulla velit voluptate anim incididunt.</about>
+            <address>960 Manhattan Avenue, Kerby, Michigan, 9551</address>
+            <phone>+1 (898) 550-3916</phone>
+            <email>hamilton.knox@opticom.org</email>
+            <company>OPTICOM</company>
+            <name>
+                <last>Knox</last>
+                <first>Hamilton</first>
+            </name>
+            <eyeColor>brown</eyeColor>
+            <age>24</age>
+            <picture>http://placehold.it/32x32</picture>
+            <balance>$1,810.68</balance>
+            <isActive>true</isActive>
+            <guid>a32d05fc-c816-4cfe-be09-099bf9b192f5</guid>
+            <index>4</index>
+        </item>
+    </items>
+</response>
