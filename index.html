@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>JavaScript XML Helper</title>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.1.0/styles/github-gist.min.css">
+    <link rel="stylesheet" href="./styles/views/index.css">
+</head>
+<body>
+    <header>
+        <h1>Parse a valid XML file using XPath.</h1>
+        <blockquote>
+            This project demonstrates JavaScript features such as:
+            <ul>
+                <li>Reading an XML file using <a href="https:///developer.mozilla.org/en-US/docs/Web/API/FileReader">FileReader</a></li>
+                <li>Reading an XML file using <a href="https:///developer.mozilla.org/en-US/docs/Web/API/Fetch_API">Fetch</a></li>
+                <li>Selecting an XML file using <a href="https:///developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API">Drag and Drop</a></li>
+                <li>Parsing an XML file into a DOM Document using <a href="https:///developer.mozilla.org/en-US/docs/Web/API/DOMParser">DOMParser</a></li>
+                <li>Searching for a string value, node attribute, node, list of nodes, or other values using <a href="https:///developer.mozilla.org/en-US/docs/Web/XPath">XPath 1.0</a> and <a href="https:///developer.mozilla.org/en-US/docs/Web/API/Document/evaluate">Document.evaluate</a></li>
+                <li>Displaying a value, node, or list of nodes that have been found using <a href="https:///developer.mozilla.org/en-US/docs/Mozilla/Tech/XPCOM/Reference/Interface/nsIDOMXPathResult">XPathResult</a></li>
+                <li><code>let</code>, <code>class</code>, <code>arrow functions</code>, <code>rest parameters</code>, <code>template strings</code>, <code>tagged template strings</code>, and others.</li>
+            </ul>
+            This project demonstrates the CSS feature:
+            <ul>
+                <li>Numbering sections using <a href="https:///developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters">CSS Counters</a></li>
+            </ul>
+        </blockquote>
+    </header>
+    <main>
+        <section id="file-selection">
+            <h1>Select XML to Parse</h1>
+            <div>Drop an XML file here <span>&mdash; OR &mdash;</span> Click to select an XML file <span>&mdash; OR &mdash;</span> <button>Use example.xml</button></div>
+            <input type="file">
+            <a href="./data/example.xml" download>Download example.xml</a>
+            <label for="xml">XML</label>
+            <pre><code class="xml" name="xml"></code></pre>
+        </section>
+        <section id="search">
+            <h1>Search XML using XPath 1.0</h1>
+            <input type="text" placeholder="/response/items/item[1]/address/text()">
+            <button>Search</button>
+            <aside>
+                <button value="/response/items">All Items</button>
+                <button value="//item[2]/@id">Item 2 Id</button>
+                <button value="count(//item)">Number of Items</button>
+                <button value="boolean(count(//item)=5)">Number of Items = 5</button>
+                <button value="//item[last()]/address/text()">The Last Item Address</button>
+                <button value="round(number(translate(substring(//item[position()=4]/balance/text(), 2), ',', '')))">The Rounded Balance of Item 4</button>
+            </aside>
+            <label for="result">Result</label>
+            <pre><code class="xml" name="result"></code></pre>
+        </section>
+    </main>
+    <footer>
+        Copyright &copy; 2016 Coderfin <a href="http://opensource.org/licenses/MIT">The MIT License (MIT)</a>
+    </footer>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.1.0/highlight.min.js"></script>
+    <script src="./lib/vkbeautify.js"></script>
+    <script src="./scripts/classes/xml-helper.js"></script>
+    <script src="./scripts/views/index.js"></script>
+</body>
+</html>
